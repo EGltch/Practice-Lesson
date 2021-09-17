@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(20, 20, 20);
+  color: rgb(200, 200, 200);
+}
+
+.Lesson1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.question-list {
+  background-color: rgb(25, 25, 25);
+}
+
+.question {
+  text-align: left;
+}
+
+.answer {
+  text-align: left;
+}
